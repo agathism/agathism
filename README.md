@@ -2,10 +2,10 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning the differents langages and data structures
 - 📫 Reach me on linkedin ...
-- 😄 She/Her
 - ⚡ Favorite Animal : Octopus
 - ⚡ Favorite Book : Project Hail Mary by Andy Weir
 - ⚡I like watching animes and knitting.
+- 😄 She/Her
 
 <!---
 AichatouSoumare/AichatouSoumare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
