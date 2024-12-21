@@ -16,10 +16,12 @@
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66a7969dee6a29a2edf75485?variant=dark&roadmaps=full-stack%2Cdatastructures-and-algorithms%2Csql%2Ccyber-security)](https://roadmap.sh)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AichatouSoumare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AichatouSoumare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AichatouSoumare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AichatouSoumare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
