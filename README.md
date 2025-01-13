@@ -15,7 +15,7 @@
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66a7969dee6a29a2edf75485?variant=dark&roadmaps=full-stack%2Cdatastructures-and-algorithms%2Csql%2Ccyber-security)](https://roadmap.sh) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agathism&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=agathism&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=agathism&theme=dark&hide_border=false)<br/>
 
 
 ### ✍️ Random Dev Quote
