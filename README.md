@@ -73,9 +73,13 @@
 
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/agathism/agathism/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
