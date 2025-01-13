@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AichatouSoumare
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning the differents langages and data structures
+- ✍️ Working on a Portfolio...
+- 🌱 I’m currently learning langages,algorithms and data structures
 - 📫 Reach me on linkedin ...
 - ⚡ Favorite Animal : Octopus
 - ⚡ Favorite Book : Project Hail Mary by Andy Weir
