@@ -5,7 +5,7 @@
 - 📫 Reach me on linkedin ...
 - ⚡ Favorite Animal : Octopus
 - ⚡ Favorite Book : Project Hail Mary by Andy Weir
-- ⚡I like watching animes and knitting.
+- ⚡I like knitting, playing tennis and videos games.
 
 
 ## 🌐 Socials:
