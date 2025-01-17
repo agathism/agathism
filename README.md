@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Aichatou Soumaré and I'm an web developer.</h2>
+<h2 align="left">Hi 👋! My name is Aichatou Soumaré and I'm a web developer.</h2>
 
 - ✍️ Working on a Portfolio...
 - 🌱 I’m currently learning langages,algorithms and data structures
