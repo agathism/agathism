@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathism&theme=dracula&hide_border=false" width="360" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathism&theme=dracula&hide_border=false" alt="Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathism&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -76,7 +76,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-<p>generated with <a href="(https://github.com/Platane/snk)">[Platane/snk]</a></p>
+<p>generated with <a href="(https://github.com/Platane/snk)">Platane/snk</a></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
