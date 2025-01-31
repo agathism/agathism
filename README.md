@@ -12,8 +12,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathism&theme=dracula&card_width=360&hide_border=false" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathism&locale=en&hide_title=false&layout=compact&card_width=180&langs_count=5&theme=dracula&hide_border=true" height="195" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathism&theme=dracula&card_width=380&hide_border=false" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathism&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=true" height="195" alt="languages graph"  />
 </div>
 
 ###
