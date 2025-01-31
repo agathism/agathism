@@ -75,7 +75,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" >
 </picture>
-<p>generated with <a href="(https://github.com/Platane/snk)">Platane/snk</a></p>
+ <p> generated with <a href="https://github.com/Platane/snk"> Platane | SNK </a></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
