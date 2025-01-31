@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Aichatou Soumaré and I'm a web developer.</h2>
+<h2 align="left">Hi 👋! I'm an aspirant web developer.</h2>
 
 - ✍️ Working on a Portfolio...
 - 🌱 I’m currently learning langages,algorithms and data structures
@@ -13,7 +13,7 @@
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=agathism&theme=dracula&hide_border=true" alt="Github Stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathism&theme=dracula&hide_border=false" alt="Streak Stats"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathism&theme=dracula&hide_border=false" alt="Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathism&locale=en&hide_title=false&layout=compact&card_width=265&langs_count=5&theme=dracula&hide_border=true" height="195" alt="languages graph"  />
 </div>
 
