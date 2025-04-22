@@ -3,11 +3,6 @@
 
 - ✍️ Take a look at my Portfolio...
 - 🌱 I’m currently learning langages,algorithms and data structures
-- 📫 Reach me on linkedin ...
-- ⚡ Favorite Animal : Octopus
-- ⚡ Favorite Book : Project Hail Mary by Andy Weir
-- ⚡I like knitting, playing tennis and videos games.
-
 
 ###
 
