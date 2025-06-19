@@ -1,8 +1,8 @@
 
-<h2 align="left">Hi 👋! I'm an aspirant web developer.</h2>
+<h2 align="left">Hi 👋! I'm a technology enthusiast.</h2>
 
 - ✍️ Take a look at my Portfolio...
-- 🌱 I’m currently learning langages,algorithms and data structures
+- 🌱 I’m currently learning langages, cybersecurity and network...
 
 ###
 
